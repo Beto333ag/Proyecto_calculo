@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pies
+  - ShadowFloor
+  - Dead
+  - Final
+  - Final2
+  - Dead2
+  - Dead3
+  - Final3
+  - CamaraSec
+  - Final4
+  - Final5
+  - Final6
+  - Final7
+  - Final8
+  - Final9
+  - Final10
+  - Dead4
+  - Dead5
+  - Dead6
+  - Dead7
+  - Dead8
+  - Dead9
+  - Dead10
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
